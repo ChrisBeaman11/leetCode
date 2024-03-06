@@ -3,9 +3,7 @@ let arrFilter = (nums) =>{
     return arr;
 }
 var moveZeroes = function(nums) {
-    let numbers = nums.length;
     let newArr = arrFilter(nums);
-    let length = nums.length;
     let amountOfZeros = nums.length - newArr.length;
     for(let i = 0; i< amountOfZeros; i++){
         newArr.push(0);
