@@ -7,14 +7,15 @@ var findRelativeRanks = function(score) {
     for(let i = sortedArr.length -4; i>=0; i--){
         rankObj[(sortedArr.length-i).toString()] = sortedArr[i];
     }
-    let valArr = Object.values(rankObj);
-    let keysArr = Object.keys(rankObj);
-    console.log(valArr);
-    console.log(keysArr);
-    let res = [];
-    for(let i =0; i<score.length; i++){
-        let index = valArr.find((ele) => ele === score[i]);
-        res.push(keysArr[index]);
-    }
-    return res;
+    // let valArr = Object.values(rankObj);
+    // let keysArr = Object.keys(rankObj);
+    // console.log(valArr);
+    // console.log(keysArr);
+    // let res = [];
+    // for(let i =0; i<score.length; i++){
+    //     let index = valArr.find((ele) => ele === score[i]);
+    //     res.push(keysArr[index]);
+    // }
+    // return res;
+    // need to find out why this is not working from line 10-20
 };
