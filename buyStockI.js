@@ -12,4 +12,5 @@ var maxProfit = function(prices) {
     }
 
     return max;
+    // this is the easy level for the buy stocks
 };
