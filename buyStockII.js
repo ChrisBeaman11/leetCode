@@ -8,3 +8,5 @@ var maxProfit = function(prices) {
     }
     return sum;
 };
+
+// this is the medium level for the buy stocks
