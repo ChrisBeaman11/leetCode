@@ -8,3 +8,4 @@ var removeDuplicates = function(nums) {
     }
     return nums.length;
 };
+//this is the easy level removeDuplicates
