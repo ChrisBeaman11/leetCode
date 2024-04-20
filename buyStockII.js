@@ -10,3 +10,4 @@ var maxProfit = function(prices) {
 };
 
 // this is the medium level for the buy stocks
+// try and optimize
