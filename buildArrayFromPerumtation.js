@@ -5,3 +5,5 @@ var buildArray = function(nums) {
     }
     return ret;
 };
+
+//try and optimize
