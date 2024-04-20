@@ -8,3 +8,5 @@ var strStr = function(haystack, needle) {
     }
     return -1;
 };
+
+// try and optimize 
