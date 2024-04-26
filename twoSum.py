@@ -9,5 +9,6 @@ class Solution(object):
                 return [num_to_index[complement], i]
 
             num_to_index[num] = i
-            
+
         return []
+# redo in js
