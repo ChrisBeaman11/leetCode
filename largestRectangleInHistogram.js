@@ -25,12 +25,12 @@ var largestRectangleArea = function(heights) {
        let indexDown = count;
 
        while(heights[count]<= heights[indexUp] && heights[indexUp]){
-           // console.log(currArea)
+          
            currArea += heights[count];
            indexUp++;
        }
        while(heights[count]<= heights[indexDown] && heights[indexDown]){
-           // console.log(currArea)
+
            currArea += heights[count];
            indexDown--;
        }
@@ -39,7 +39,6 @@ var largestRectangleArea = function(heights) {
            area = currArea-heights[count];
 
        }
-       // console.log(area);
        count ++;
    }
    return area;
