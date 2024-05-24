@@ -16,3 +16,4 @@ var findPoisonedDuration = function(timeSeries, duration) {
     return total;
 
 };
+//LoL problem
