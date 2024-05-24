@@ -8,4 +8,4 @@ function memoize(fn) {
         return this.memoize[args][1];
     }
 }
-//check notes
+
