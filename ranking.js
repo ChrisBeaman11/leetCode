@@ -16,3 +16,5 @@ var findRelativeRanks = function(score) {
     }
     return res;
 };
+
+//ranking
