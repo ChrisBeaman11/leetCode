@@ -7,5 +7,5 @@ var hammingWeight = function(n) {
 
         }
     }
-    return count;
+    // return count;
 };
