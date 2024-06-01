@@ -5,3 +5,4 @@ var isPowerOfThree = function(n) {
     if(n%3!==0) return false;
     return isPowerOfThree(n/3)
 };
+//to 3rd
