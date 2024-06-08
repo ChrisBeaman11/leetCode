@@ -12,3 +12,4 @@ var romanToInt = function(s) {
     }
     return sum;
 };
+//check
