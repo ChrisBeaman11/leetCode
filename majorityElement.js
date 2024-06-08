@@ -12,3 +12,4 @@ var majorityElement = function(nums) {
         }
     }
 };
+//check
