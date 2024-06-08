@@ -14,3 +14,4 @@ var rotate = function(nums, k) {
 
 
 };
+//checked
