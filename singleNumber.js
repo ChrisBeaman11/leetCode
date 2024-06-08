@@ -18,3 +18,4 @@ var singleNumber = function(nums) {
     return;
 
 };
+//checked
