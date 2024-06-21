@@ -4,4 +4,4 @@ var isPowerOfTwo = function(n) {
     if(n===2)return true;
     return isPowerOfTwo(n/2);
 };
-//fix
+//test
