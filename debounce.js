@@ -12,3 +12,4 @@ var debounce = function(fn, t) {
         this.called = true;
     }
 };
+//debounce
