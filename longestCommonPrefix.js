@@ -21,3 +21,4 @@ var longestCommonPrefix = function(strs, counter = 0, length = strs.length) {
 };
 
 
+//study this
