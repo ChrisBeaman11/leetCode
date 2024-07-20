@@ -19,7 +19,8 @@ class LRUCache {
       }
       this.cache.set(key, value);
       if (this.cache.size > this.capacity) {
-        this.cache.delete(this.cache.keys().next().value);  
+        this.cache.delete(this.cache.keys().next().value);
       }
     };
   }
+//study
