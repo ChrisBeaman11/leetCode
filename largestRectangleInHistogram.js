@@ -44,4 +44,4 @@ var largestRectangleArea = function(heights) {
    return area;
 
 };
-//study
+
