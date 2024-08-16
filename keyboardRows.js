@@ -24,4 +24,4 @@ var findWords = function(words) {
     return newArr;
 };
 
-//find less hard code answer maybe
+
