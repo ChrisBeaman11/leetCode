@@ -24,5 +24,3 @@ var findWords = function(words) {
     return newArr;
 };
 //commit
-//commit
-//commit
