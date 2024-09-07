@@ -23,3 +23,4 @@ var findWords = function(words) {
     }
     return newArr;
 };
+//study
