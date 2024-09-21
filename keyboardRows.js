@@ -25,4 +25,4 @@ var findWords = function(words) {
 };
 
 
-//study
+//stud
